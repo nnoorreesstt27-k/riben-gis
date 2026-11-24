@@ -1,0 +1,15 @@
+{
+  "name": "高倉台 生活サービス到達圏・移動負担可視化GIS",
+  "short_name": "高倉台到達圏",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A1626",
+  "theme_color": "#0A1626",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
