@@ -1,6 +1,6 @@
 {
-  "name": "高倉台 生活サービス到達圏・移動負担可視化GIS",
-  "short_name": "高倉台到達圏",
+  "name": "生活サービス圏・移動負担可視化GIS（神戸市）",
+  "short_name": "生活サービス圏GIS",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
